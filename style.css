@@ -1,0 +1,120 @@
+main{
+  margin: auto;
+  width: 90%;
+}
+
+
+
+#hero-area{
+  background-image: url(assets/bg-mailchimp.jpg);
+}
+
+#shop{
+  color: green;
+}
+
+#logo{
+  width: 150px;
+}
+
+#btn-login{
+  background-color:green;
+  color: white;
+}
+
+#menu{
+  background-color: green;
+  color: white;
+}
+
+#cart1{
+  background: rgba(230, 207, 1, 0.329);
+}
+#img2{
+  margin-left: -50px;
+
+}
+
+#cart2{
+  background: rgba(144, 238, 144, 0.568);
+}
+
+#cart3{
+  background: rgba(224, 176, 176, 0.644);
+ 
+}
+
+#About{
+  width: 480px;
+  height: 500px;
+}
+
+#about-main{
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+#product{
+  background: rgba(244, 165, 96, 0.212);
+}
+
+#product2{
+  background: rgba(144, 238, 144, 0.404);
+}
+#product3{
+  background:rgba(230, 207, 1, 0.329);
+}
+
+#carrot{
+  margin-left: 110px;
+}
+
+#cart-btn{
+  background-color: rgba(62, 148, 4, 0.788);
+  margin-top: 650px;
+}
+
+#discount{
+  background-image: url(assets/h10-bg-section1.jpg);
+  font-size: 200px;
+}
+
+#discount-btn{
+  width: 350px;
+  height: 90px;
+  margin-left: 475px;
+  margin-top: 80px;
+}
+
+@media  only screen and (max-width: 768px) {
+
+  #discount-btn{
+  width: 150px;
+  height: 50px;
+  margin-left: 85px;
+  margin-top: 80px;
+}
+
+}
+
+#Client{
+  background:rgba(230, 207, 1, 0.329);
+}
+
+#Client-2{
+  background: rgba(144, 238, 144, 0.568);
+}
+
+#Client-3{
+  background: rgba(224, 176, 176, 0.644);
+}
+
+#first-pic{
+  margin-left: 100px;
+}
+
+#first-pic-2{
+  margin-left: 100px;
+}
+
